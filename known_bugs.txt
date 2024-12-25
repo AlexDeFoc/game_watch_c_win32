@@ -1,0 +1,1 @@
+- add function OR remove function adds wrong chars (very potentially remove one), leaves a char or smth behind (tried fix with memset on title but changed tiny behaviour)
